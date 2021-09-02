@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **something new**
 
-- 🌱 I’m currently learning **AngularJS**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **React, VUE**
 
