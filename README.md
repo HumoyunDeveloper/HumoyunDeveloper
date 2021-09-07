@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **humoyundeveloper@gmail.com**
 
-- ⚡ Fun fact **I am curious**
+- ⚡ **I am curious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
